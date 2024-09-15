@@ -2,7 +2,7 @@
 
 A **Rede Mapas** é uma **comunidade** liderada pela **sociedade civil** que envolve **governos**, universidades e outras organizações na utilização e no desenvolvimento de **soluções digitais para mapeamento e gestão colaborativa de territórios**, organizando informações e políticas de interesse público. 
 
-A iniciativa tem como objetivo **promover a governança colaborativa, a interoperabilidade e a sustentabilidade** do ecossistema no qual estão inseridas essas soluções. Para isso, busca tornar-se uma comunidade ampla e participativa com tomadas de decisão democráticas, transparentes e assertivas, com interoperabilidade dos dados, que levem à eficiência e à inovação das soluções digitais e à sustentabilidade da cadeia produtiva.
+A iniciativa tem como objetivo **promover a governança colaborativa, a interoperabilidade e a sustentabilidade** do ecossistema no qual estão inseridas essas soluções. Para isso, pauta-se por tomadas de decisão democráticas, transparentes e assertivas, **priorizando a interoperabilidade dos dados**, como requisito básico para a eficiência e inovação das soluções digitais.
 
 A comunidade é composta por pessoas gestoras, produtoras, usuárias e desenvolvedoras, além de organizações públicas e privadas, coletivos e movimentos sociais. Tem como eixos norteadores a **soberania digital** e a **autonomia dos territórios**, atuando com espírito e práticas do **software livre**, da **colaboração em rede** e da **transparência**. 
 
